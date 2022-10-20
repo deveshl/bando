@@ -2,7 +2,7 @@
 {
   "openPhases" : ["phaseBugReporting","phaseTeamResponse","phaseTesterResponse","phaseModeration"],
   "phaseBugReporting": "bando",
-  "phaseTeamResponse": "bando-dev-response",
+  "phaseTeamResponse": "bando",
   "phaseTesterResponse": "bando",
   "phaseModeration": "bando-tutor-moderation"
 }
